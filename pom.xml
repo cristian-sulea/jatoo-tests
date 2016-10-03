@@ -33,6 +33,17 @@
   </developers>
 
 
+  <dependencies>
+
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>jatoo-ui</artifactId>
+      <version>4.1.0</version>
+    </dependency>
+
+  </dependencies>
+
+
   <build>
     <plugins>
       <plugin>
