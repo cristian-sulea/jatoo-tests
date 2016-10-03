@@ -33,11 +33,6 @@
   </developers>
 
 
-  <dependencies>
-
-  </dependencies>
-
-
   <build>
     <plugins>
       <plugin>
